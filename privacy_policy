@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Habit Dungeon</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; }
+        h1 { color: #1A1F3A; border-bottom: 2px solid #eee; padding-bottom: 10px; }
+        h2 { color: #1A1F3A; margin-top: 30px; }
+        p { margin-bottom: 15px; }
+        .highlight { background-color: #f0f0f0; padding: 15px; border-radius: 8px; border-left: 4px solid #1A1F3A; }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+    <p>Last updated: December 19, 2025</p>
+
+    <p>This Privacy Policy describes Our policies and procedures on the collection, use, and disclosure of Your information when You use the Habit Dungeon mobile application (the "Service").</p>
+
+    <h2>1. Data Storage and Ownership</h2>
+    <div class="highlight">
+        <strong>Key Point:</strong> Habit Dungeon is a "Local-First" application. 
+    </div>
+    <p>We do not maintain a central server that stores your personal habit data, hero statistics, or progress. All game data is stored locally on your device using a secure database (Hive). If you delete the app without exporting a backup, your data may be permanently lost.</p>
+
+    <h2>2. Data We Collect and How We Use It</h2>
+    
+    <h3>A. Personal Data</h3>
+    <p>We do not require you to create an account to use the Service. We do not collect your name, email address, or phone number.</p>
+
+    <h3>B. AI Features and Third-Party Processing</h3>
+    <p>The Service uses Artificial Intelligence (AI) to generate monster names, lore, and battle narratives based on the habits you create.</p>
+    <ul>
+        <li><strong>What is sent:</strong> When you create a task, the text of your habit (e.g., "Drink Water", "Read Book") is sent to a third-party AI provider (OpenAI/ChatGPT) to generate game content.</li>
+        <li><strong>Purpose:</strong> To create unique RPG descriptions and story elements.</li>
+        <li><strong>Privacy:</strong> We advise you <strong>not</strong> to include sensitive personal information (such as passwords, financial data, or health records) in your habit titles or descriptions.</li>
+    </ul>
+
+    <h2>3. Permissions</h2>
+    <p>The app requests the following permissions:</p>
+    <ul>
+        <li><strong>Internet Access:</strong> Required to communicate with the AI service for generating game content.</li>
+        <li><strong>Vibration:</strong> Used for haptic feedback during gameplay interactions.</li>
+    </ul>
+
+    <h2>4. Children's Privacy</h2>
+    <p>Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13.</p>
+
+    <h2>5. Changes to this Privacy Policy</h2>
+    <p>We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.</p>
+
+    <h2>6. Contact Us</h2>
+    <p>If you have any questions about this Privacy Policy, You can contact us:</p>
+    <ul>
+        <li>By email: help@memodrop.online</li>
+    </ul>
+</body>
+</html>
